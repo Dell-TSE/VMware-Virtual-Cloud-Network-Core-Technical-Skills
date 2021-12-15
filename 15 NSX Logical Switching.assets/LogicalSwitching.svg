@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="208.58719"
+   width="733.5"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 733.50001 208.58719"
+   enable-background="new 0 0 835.8 540"
+   xml:space="preserve"
+   id="svg266"
+   sodipodi:docname="LogicalSwitching.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+   id="metadata272"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs270">
+	
+	
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+	
+	
+	
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+	
+	
+	
+
+
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview268"
+   showgrid="false"
+   inkscape:zoom="1.3591769"
+   inkscape:cx="426.91416"
+   inkscape:cy="222.26064"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg266"
+   inkscape:document-rotation="0" />
+
+<g
+   transform="translate(-47.5,-38.486711)"
+   id="g41">
+		<rect
+   id="rect39"
+   height="21.1"
+   width="33"
+   fill="#7ab929"
+   y="159.5"
+   x="119.7" />
+	</g><g
+   transform="translate(-49.499998,-38.486711)"
+   id="g45">
+		<rect
+   id="rect43"
+   height="21.1"
+   width="33"
+   fill="#7ab929"
+   y="159.5"
+   x="683" />
+	</g><g
+   transform="translate(-49.499998,-38.486711)"
+   id="g49">
+		<rect
+   id="rect47"
+   height="6.4000001"
+   width="730.20001"
+   fill="#7ab929"
+   y="180.5"
+   x="52.799999" />
+	</g><text
+   y="13.487289"
+   x="67.841705"
+   id="text79"
+   font-size="14px"
+   font-family="Metropolis-Regular">Web-1</text><text
+   y="133.84825"
+   x="312.12033"
+   id="text87"
+   font-size="14px"
+   font-family="Metropolis-Regular">Web-Segment </text><text
+   style="fill:#717074;"
+   y="208.40262"
+   x="74.602402"
+   id="text99"
+   font-size="14px"
+   font-family="Metropolis-Regular"
+   fill="#ffffff">ESXi</text><g
+   transform="translate(-56.999999,-217.58672)"
+   id="g121">
+		<path
+   id="path101"
+   d="m 226.3,370.5 v 35.9 H 64.8 v -35.9 h 161.5 m 4.5,-4.5 H 60.3 v 44.9 h 170.5 z"
+   fill="#717074" />
+		<path
+   id="path103"
+   d="m 145.1,383.1 v 0 c 2.6,0 4.9,1.9 5.3,4.5 0.5,2.9 -1.5,5.7 -4.4,6.2 -0.3,0.1 -0.6,0.1 -0.9,0.1 -2.6,0 -4.9,-1.9 -5.3,-4.5 -0.5,-2.9 1.5,-5.7 4.4,-6.2 0.3,-0.1 0.6,-0.1 0.9,-0.1 m 0,-3.6 c -0.5,0 -1,0 -1.5,0.1 -4.9,0.8 -8.2,5.4 -7.4,10.3 0.7,4.4 4.5,7.5 8.8,7.5 0.5,0 1,0 1.5,-0.1 4.9,-0.8 8.2,-5.4 7.4,-10.3 -0.7,-4.4 -4.5,-7.5 -8.8,-7.5 z"
+   fill="#717074" />
+		<g
+   id="g111">
+			<rect
+   id="rect105"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="72.400002" />
+			<rect
+   id="rect107"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="81.400002" />
+			<rect
+   id="rect109"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="90.400002" />
+		</g>
+		<g
+   id="g119">
+			<rect
+   id="rect113"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="193.3" />
+			<rect
+   id="rect115"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="202.3" />
+			<rect
+   id="rect117"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="211.3" />
+		</g>
+	</g><text
+   style="fill:#717074"
+   y="206.95209"
+   x="635.0899"
+   id="text143"
+   font-size="14px"
+   font-family="Metropolis-Regular"
+   fill="#ffffff">ESXi</text><g
+   transform="translate(-41.999998,-217.58672)"
+   id="g165">
+		<path
+   id="path145"
+   d="m 771,370.5 v 35.9 H 609.5 V 370.5 H 771 m 4.5,-4.5 H 605 v 44.9 h 170.5 z"
+   fill="#717074" />
+		<path
+   id="path147"
+   d="m 689.8,383.1 v 0 c 2.6,0 4.9,1.9 5.3,4.5 0.5,2.9 -1.5,5.7 -4.4,6.2 -0.3,0.1 -0.6,0.1 -0.9,0.1 -2.6,0 -4.9,-1.9 -5.3,-4.5 -0.5,-2.9 1.5,-5.7 4.4,-6.2 0.3,-0.1 0.6,-0.1 0.9,-0.1 m 0,-3.6 c -0.5,0 -1,0 -1.5,0.1 -4.9,0.8 -8.2,5.4 -7.4,10.3 0.7,4.4 4.5,7.5 8.8,7.5 0.5,0 1,0 1.5,-0.1 4.9,-0.8 8.2,-5.4 7.4,-10.3 -0.7,-4.4 -4.5,-7.5 -8.8,-7.5 z"
+   fill="#717074" />
+		<g
+   id="g155">
+			<rect
+   id="rect149"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="617.09998" />
+			<rect
+   id="rect151"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="626.09998" />
+			<rect
+   id="rect153"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="635.09998" />
+		</g>
+		<g
+   id="g163">
+			<rect
+   id="rect157"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="738.09998" />
+			<rect
+   id="rect159"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="747.09998" />
+			<rect
+   id="rect161"
+   height="17.9"
+   width="4.5"
+   fill="#717074"
+   y="379.5"
+   x="756.09998" />
+		</g>
+	</g><g
+   transform="translate(-47.5,-38.486711)"
+   id="g177">
+		<polygon
+   id="polygon169"
+   points="109.5,112.1 109.5,58.6 163,58.6 163,111.6 161.5,111.6 161.5,60.1 110.9,60.1 110.9,110.7 155.3,110.7 155.3,112.1 "
+   fill="#1b8ece" />
+		<g
+   id="g175">
+			<path
+   id="path171"
+   d="m 125.6,82.2 h 1.2 l 2.4,6 2.4,-6 h 1.2 l -3.1,7.3 h -1 z"
+   fill="#1b8ece" />
+			<path
+   id="path173"
+   d="m 145.4,84.9 v 4.6 h -1.1 V 85 c 0,-1.2 -0.7,-2 -1.7,-2 -1.2,0 -2,0.8 -2,1.9 v 4.6 h -1.1 V 85 c 0,-1.2 -0.7,-2 -1.7,-2 -1.2,0 -2,0.8 -2,1.9 v 4.6 h -1.1 v -7.3 h 1.1 v 1.1 c 0.4,-0.8 1.2,-1.2 2.1,-1.2 1.1,0 2,0.6 2.3,1.5 0.3,-0.9 1.3,-1.5 2.3,-1.5 1.8,-0.1 2.9,1.1 2.9,2.8 z"
+   fill="#1b8ece" />
+		</g>
+	</g><text
+   y="13.287625"
+   x="627.6889"
+   id="text179"
+   font-size="14px"
+   font-family="Metropolis-Regular">Web-2</text><g
+   transform="translate(-49.499998,-38.486711)"
+   id="g195">
+		<polygon
+   id="polygon187"
+   points="724.9,60.1 674.2,60.1 674.2,110.7 718.6,110.7 718.6,112.1 672.8,112.1 672.8,58.6 726.3,58.6 726.3,111.6 724.9,111.6 "
+   fill="#1b8ece" />
+		<g
+   id="g193">
+			<path
+   id="path189"
+   d="m 688.9,82.2 h 1.2 l 2.4,6 2.4,-6 h 1.2 l -3.1,7.3 h -1 z"
+   fill="#1b8ece" />
+			<path
+   id="path191"
+   d="m 708.7,84.9 v 4.6 h -1.1 V 85 c 0,-1.2 -0.7,-2 -1.7,-2 -1.2,0 -2,0.8 -2,1.9 v 4.6 h -1.1 V 85 c 0,-1.2 -0.7,-2 -1.7,-2 -1.2,0 -2,0.8 -2,1.9 v 4.6 H 698 v -7.3 h 1.1 v 1.1 c 0.4,-0.8 1.2,-1.2 2.1,-1.2 1.1,0 2,0.6 2.3,1.5 0.3,-0.9 1.3,-1.5 2.3,-1.5 1.8,-0.1 2.9,1.1 2.9,2.8 z"
+   fill="#1b8ece" />
+		</g>
+	</g><line
+   id="line221"
+   y2="112.81329"
+   x2="88.699997"
+   y1="79.51329"
+   x1="88.699997"
+   stroke-miterlimit="10"
+   stroke="#717074"
+   fill="none" /><line
+   id="line243"
+   y2="112.81329"
+   x2="650.00006"
+   y1="79.51329"
+   x1="650.00006"
+   stroke-miterlimit="10"
+   stroke="#717074"
+   fill="none" />
+</svg>
