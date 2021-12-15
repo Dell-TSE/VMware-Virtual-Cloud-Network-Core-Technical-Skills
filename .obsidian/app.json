@@ -1,0 +1,10 @@
+{
+  "showFrontmatter": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "trashOption": "system",
+  "showUnsupportedFiles": true,
+  "vimMode": true
+}

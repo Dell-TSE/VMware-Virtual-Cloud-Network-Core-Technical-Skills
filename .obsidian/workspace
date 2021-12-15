@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "ffc22ffced452b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "db693c41a1a0aeec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 vSphere and the Software-Defined Data Center.md",
+            "mode": "source"
+          }
+        },
+        "group": "1966844777027da0"
+      },
+      {
+        "id": "f22e7cb2c84b51f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 vSphere and the Software-Defined Data Center.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1966844777027da0"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "465d28419a64523d",
+    "type": "split",
+    "children": [
+      {
+        "id": "594e66e13a688af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9f619ec7cd3042",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "726489016e3add01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 150
+  },
+  "right": {
+    "id": "c79cdb04138e0fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9786bb5ad26dec38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1381a222641d56a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 vSphere and the Software-Defined Data Center.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3526c467cc7d7354",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9462006beab4a6b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 vSphere and the Software-Defined Data Center.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f22e7cb2c84b51f1",
+  "lastOpenFiles": [
+    "01 vSphere and the Software-Defined Data Center.md",
+    "ESTPYD02414 VMware Virtual Cloud Network - Core Technical Skills.md",
+    "Case_Notes_md/128988040.md",
+    "case-log.md",
+    "README.md",
+    "Templates/Date-Time.md",
+    "Untitled.md",
+    "case-log.md.md"
+  ]
+}
