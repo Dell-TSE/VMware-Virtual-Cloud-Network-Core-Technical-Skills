@@ -1,7 +1,5 @@
 # vSphere and the Software-Defined Data Center
 
-[TOC]
-
 ## Introduction
 
 [VMBeans](https://core-vmware.bravais.com/api/dynamic/documentVersions/3559/files/70374/c4cdb738-c65e-45f3-96ff-280ea2ebed4a.html) wants to provide its internal departments and employees with on-demand computing services, such as network connectivity and security, storage, and applications. The most efficient way to deliver these services is through cloud computing. So VMBeans decides to implement a software-defined data center.
