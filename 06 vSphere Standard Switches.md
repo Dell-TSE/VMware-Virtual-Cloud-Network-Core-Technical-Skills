@@ -50,7 +50,7 @@ For example, with four standard switches that have two uplink ports each, the ES
 
 Also, an ESXi host has limits to the number of physical NICs that it can support.
 
-![StandardSwitch_MultipleSwitches](06%20vSphere%20Standard%20Switches.assets/StandardSwitch_MultipleSwitches.svg)
+![StandardSwitch_MultipleSwitches](assets/StandardSwitch_MultipleSwitches.svg)
 
 #### VLANs
 
@@ -72,7 +72,7 @@ In addition to improving network performance and providing additional security, 
 
 VLANs must be planned and configured in your physical and virtual network infrastructure before they can be used. Therefore, if your data center already has an existing VLAN configuration in place, then you might prefer to use VLANs instead of multiple standard switches to isolate your networks.
 
-![StandardSwitch_VLANs](06%20vSphere%20Standard%20Switches.assets/StandardSwitch_VLANs.svg)
+![StandardSwitch_VLANs](assets/StandardSwitch_VLANs.svg)
 
 ## Viewing Standard Switch Configurations
 
@@ -84,7 +84,7 @@ Explore the topology diagram for a standard switch located on the ESXi host call
 
 ### Topology Diagram
 
-![image-20211213095145741](06%20vSphere%20Standard%20Switches.assets/image-20211213095145741.png)
+![image-20211213095145741](assets/image-20211213095145741.png)
 
 - Standard Switch: Name of the standard switch, which uses the naming convention vSwitch followed by a number (starting at 0), for example, vSwitch0, vSwitch1, vSwitch2, and so on.
 
@@ -126,7 +126,7 @@ Explore the topology diagram for a standard switch located on the ESXi host call
 
 From the topology diagram, you can view the properties of the standard switch,  port groups, VMkernel ports, and uplink ports. You might check these properties when connectivity problems occur.
 
-![2021-12-13_10-07-33](06%20vSphere%20Standard%20Switches.assets/2021-12-13_10-07-33.png)
+![2021-12-13_10-07-33](assets/2021-12-13_10-07-33.png)
 
 #### Standard Switch
 
@@ -134,13 +134,13 @@ The MTU is the maximum transmission unit of a network packet. The default is 1,5
 
 By increasing the MTU value, you increase the amount of data transmitted in a single network packet. A larger MTU size improves networking efficiency.
 
-![StandardSwitch_Properties_vSwitch0](06%20vSphere%20Standard%20Switches.assets/StandardSwitch_Properties_vSwitch0.png)
+![StandardSwitch_Properties_vSwitch0](assets/StandardSwitch_Properties_vSwitch0.png)
 
 #### Port Group
 
 The VLAN ID indicates the VLAN that the port group is associated with. If the field is blank, no VLAN is used.
 
-![StandardSwitch_Properties_Production](06%20vSphere%20Standard%20Switches.assets/StandardSwitch_Properties_Production.png)
+![StandardSwitch_Properties_Production](assets/StandardSwitch_Properties_Production.png)
 
 #### VMkernel
 
@@ -150,13 +150,13 @@ Enabled services identifies the types of network traffic that this VMkernel port
 
 IPv4 settings provide IP address information that the VMkernel port uses to communicate over the network.
 
-![StandardSwitch_Properties_vmk0](06%20vSphere%20Standard%20Switches.assets/StandardSwitch_Properties_vmk0.png)
+![StandardSwitch_Properties_vmk0](assets/StandardSwitch_Properties_vmk0.png)
 
 #### Uplink
 
 Status tells you whether the physical adapter is connected or disconnected.
 
-![StandardSwitch_Properties_vmnic0](06%20vSphere%20Standard%20Switches.assets/StandardSwitch_Properties_vmnic0.png)
+![StandardSwitch_Properties_vmnic0](assets/StandardSwitch_Properties_vmnic0.png)
 
 For more information about standard switch properties, see [vSphere Networking](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-35B40B0B-0C13-43B2-BC85-18C9C91BE2D4.html).
 
