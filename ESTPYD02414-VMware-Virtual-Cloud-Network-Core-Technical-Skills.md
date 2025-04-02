@@ -2621,7 +2621,7 @@ You need an approach to protect all the traffic in the data center and to consis
 
 NSX micro-segmentation resolves the security challenges of the modern data center.
 
-![Security-silos-nsx](19%20Micro-segmentation.assets/Security-silos-nsx.svg)
+![Security-silos-nsx](assets/Security-silos-nsx.svg)
 
 ## About Micro-Segmentation
 
@@ -2638,7 +2638,7 @@ Traditional data centers pose many security challenges:
 - Traditional segmentation does not prevent lateral communication between workloads in a tier. For example, all virtual machines or containers in the web services tier can freely communicate with each other.
 - Attackers can move freely around the data center and access valuable data, after penetrating the environment.
 
-![TraditionalDataCenterSecurity](19%20Micro-segmentation.assets/TraditionalDataCenterSecurity.svg)
+![TraditionalDataCenterSecurity](assets/TraditionalDataCenterSecurity.svg)
 
 ### NSX Micro-Segmentation
 
@@ -2649,7 +2649,7 @@ Micro-segmentation provides several functions and benefits:
 - Minimizes risks and the effect of security breaches
 - Uses the existing networking infrastructure
 
-![Micro-SegmentationinNSX-TDataCenter](19%20Micro-segmentation.assets/Micro-SegmentationinNSX-TDataCenter.svg)
+![Micro-SegmentationinNSX-TDataCenter](assets/Micro-SegmentationinNSX-TDataCenter.svg)
 
 ## Summary
 
