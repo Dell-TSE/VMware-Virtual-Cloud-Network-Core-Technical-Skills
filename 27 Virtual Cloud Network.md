@@ -15,7 +15,7 @@ The network of the future is virtualized, distributed, and software-defined. The
 
 This solution provides consistent policies across heterogeneous environments, simplified operations, and lower costs. The virtual networking and security capabilities extend to any workload that runs in VMs, containers, or bare-metal servers.
 
-![VCN](27%20Virtual%20Cloud%20Network.assets/VCN.svg)
+![VCN](assets/VCN.svg)
 
 ## VMware Virtual Cloud Network Portfolio Overview
 
@@ -25,7 +25,7 @@ The Virtual Cloud Network offers a complete portfolio of products that provide s
 
 VMware NSX® Data Center is the industry's only complete layer 2 to layer 7 software-defined networking stack, including networking, load balancing, security, and analytics. With NSX Data Center, you can provision networking and security services across multiple hypervisors and bare-metal servers.
 
-![NSX+Data+Center+Overview](27%20Virtual%20Cloud%20Network.assets/NSX+Data+Center+Overview.svg)
+![NSX+Data+Center+Overview](assets/NSX+Data+Center+Overview.svg)
 
 Benefits:
 
@@ -44,7 +44,7 @@ Use Cases:
 
 VMware NSX Cloud™ extends the networking and security capabilities of NSX Data Center to the public cloud. You can provide your workloads running natively on Amazon AWS or Microsoft Azure with consistent networking and security policies, helping you improve scalability, control, and visibility.
 
-![NSX+Cloud+Overview](27%20Virtual%20Cloud%20Network.assets/NSX+Cloud+Overview.svg)
+![NSX+Cloud+Overview](assets/NSX+Cloud+Overview.svg)
 
 Benefits:
 
@@ -61,7 +61,7 @@ Use Cases:
 
 VMware NSX® Advanced Load Balancer™ (formerly Avi Networks) provides multicloud load balancing, web application firewall, and application analytics across on-premises data centers and cloud.
 
-![NSX+Advanced+Load+Balancer+Overview](27%20Virtual%20Cloud%20Network.assets/NSX+Advanced+Load+Balancer+Overview.svg)
+![NSX+Advanced+Load+Balancer+Overview](assets/NSX+Advanced+Load+Balancer+Overview.svg)
 
 Benefits:
 
@@ -80,7 +80,7 @@ Use Cases:
 
 VMware NSX® Distributed IDS/IPS™ is an advanced threat detection engine that detects lateral threat movement on east-west traffic across multicloud environments.
 
-![NSX+Distributed+IDs-IPs+Overview](27%20Virtual%20Cloud%20Network.assets/NSX+Distributed+IDs-IPs+Overview.svg)
+![NSX+Distributed+IDs-IPs+Overview](assets/NSX+Distributed+IDs-IPs+Overview.svg)
 
 Benefits:
 
@@ -102,7 +102,7 @@ Wide Area Network (WAN)
 
 VMware SD-WAN by VeloCloud virtualizes WAN connections to deliver high-performance, reliable branch access to cloud services, private data centers, and SaaS-based enterprise applications.
 
-![VMware+SD-WAN+Overview](27%20Virtual%20Cloud%20Network.assets/VMware+SD-WAN+Overview.svg)
+![VMware+SD-WAN+Overview](assets/VMware+SD-WAN+Overview.svg)
 
 Benefits:
 
@@ -120,7 +120,7 @@ Use Cases:
 
 VMware HCX® (Hybrid Cloud Extension) makes it easy to migrate thousands of virtual machines within and across data centers or clouds, without requiring a reboot.
 
-![Hybrid+Cloud+Extension+Overview](27%20Virtual%20Cloud%20Network.assets/Hybrid+Cloud+Extension+Overview.svg)
+![Hybrid+Cloud+Extension+Overview](assets/Hybrid+Cloud+Extension+Overview.svg)
 
 Benefits:
 
@@ -138,7 +138,7 @@ Use Cases:
 
 You can further extend the value of the NSX portfolio with an additional complement of VMware products.
 
-![image-20211215024017805](27%20Virtual%20Cloud%20Network.assets/image-20211215024017805.png)
+![image-20211215024017805](assets/image-20211215024017805.png)
 
 - VMware NSX® Intelligence™
   - is a distributed analytics solution that provides visibility and dynamic security policy enforcement for NSX Data Center environments.
