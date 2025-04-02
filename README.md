@@ -71,6 +71,9 @@ The course aligns with the VMware Certified Technical Associate (VCTA) certifica
 ## TODO
 
 - [ ] Reformatting. Ex. Callout format for Quiz/Question.
+
+![Callout format for Quiz/Question.](assets/2025-04-02_10-45-34.gif)
+
 - [ ] Convert EOL: CRLF to LF (Windows to Linux)
 - [x] Convert image tag format: HTML (`<img src="path">`) to Markdown (`![]()`).
 
