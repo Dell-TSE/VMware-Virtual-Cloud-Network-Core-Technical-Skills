@@ -72,3 +72,5 @@ The course aligns with the VMware Certified Technical Associate (VCTA) certifica
 
 - [ ] Convert EOL: CRLF to LF (Windows to Linux)
 - [ ] Convert image tag format: HTML (`<img src="path">`) to Markdown (`![]()`).
+
+![CRLF to LF](assets/2025-04-02_10-30-56.gif)
