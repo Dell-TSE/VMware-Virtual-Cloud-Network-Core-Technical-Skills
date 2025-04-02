@@ -74,6 +74,7 @@ The course aligns with the VMware Certified Technical Associate (VCTA) certifica
 
 ![Callout format for Quiz/Question.](assets/2025-04-02_10-45-34.gif)
 
+- [ ] Rename files to a non-space scheme, ex: `22-NSX-DHCP.md`.
 - [x] Convert EOL: CRLF to LF (Windows to Linux)
 - [x] Convert image tag format: HTML (`<img src="path">`) to Markdown (`![]()`).
 
