@@ -35,7 +35,7 @@ Terms:
 - VLAN
   - A virtual LAN (VLAN) is a group of devices on one or more LANs that are configured to communicate as if they are attached to the same wire, when they are located on different LAN segments. Each group of such devices is identified by using a VLAN ID.
 
-![VPN-usecase](26%20NSX%20VPNs.assets/VPN-usecase.svg)
+![VPN-usecase](assets/VPN-usecase.svg)
 
 ## Implementing VPNs in NSX-T Data Center
 
@@ -47,7 +47,7 @@ You can use IPSec VPN to create a secure connection between NSX-T Data Center an
 
 After the IPSec connection is established, you can securely transmit encrypted data between the data centers over the Internet.
 
-![IPSec_VPN](26%20NSX%20VPNs.assets/IPSec_VPN.svg)
+![IPSec_VPN](assets/IPSec_VPN.svg)
 
 ### Layer 2 VPN
 
@@ -55,7 +55,7 @@ You can use a layer 2 VPN to extend a network over two different NSX-T Data Cent
 
 At present, you can only create layer 2 VPN connections between two sites that use NSX-T Data Center. Third-party interoperability is not possible.
 
-![IPSec_VPN](26%20NSX%20VPNs.assets/IPSec_VPN-16395061821371.svg)
+![IPSec_VPN](assets/IPSec_VPN-16395061821371.svg)
 
 ## Summary
 
