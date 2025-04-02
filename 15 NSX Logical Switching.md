@@ -23,7 +23,7 @@ As a junior network administrator, you must ensure that these two new web server
 
 You can connect all the web servers to the same segment to ensure that they can communicate with each other and exchange information.
 
-![LogicalSwitching](15%20NSX%20Logical%20Switching.assets/LogicalSwitching.svg)
+![LogicalSwitching](assets/LogicalSwitching.svg)
 
 ## Logical Switching End-to-End Communication
 
@@ -37,7 +37,7 @@ Geneve is an overlay tunneling mechanism, which:
 - Adds an 8-byte tunnel header encapsulated in UDP over either IPv4 or IPv6
 - Requires a MTU size of less than 1,600 (1,700 recommended)
 
-![image-20211215002624549](15%20NSX%20Logical%20Switching.assets/image-20211215002624549.png)
+![image-20211215002624549](assets/image-20211215002624549.png)
 
 - Version (2bits): The current version number is 0.
 - Options Length (6 bits): This variable results in a minimum total Geneve header size of 8 bytes and a maximum of 260 bytes.
@@ -67,7 +67,7 @@ The two web servers connected to the same segment communicate with each other:
 4. The destination transport node receives the packet and performs decapsulation.
 5. The destination TEP forwards the L2 frame to the destination web server (Web-2).
 
-![Logical+Switching-+End-to-End+Communication](15%20NSX%20Logical%20Switching.assets/Logical+Switching-+End-to-End+Communication.svg)
+![Logical+Switching-+End-to-End+Communication](assets/Logical+Switching-+End-to-End+Communication.svg)
 
 ## Hands-On Practice
 
@@ -180,7 +180,7 @@ NSX Logical Switching
 What is the correct order of the steps required for Web-1 to communicate with Web-2?
 Drag and drop the steps in the correct order.
 
-![Logical+Switching-+End-to-End+Communication](15%20NSX%20Logical%20Switching.assets/Logical+Switching-+End-to-End+Communication.svg)
+![Logical+Switching-+End-to-End+Communication](assets/Logical+Switching-+End-to-End+Communication.svg)
 
 1. Web-1 sends the traffic to Web-Segment.
 2. The source transport node encapsulates the L2 frame with the Geneve header.
