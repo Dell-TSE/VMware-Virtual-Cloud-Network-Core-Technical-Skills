@@ -1848,7 +1848,7 @@ Traditional data center switching has limited flexibility and operation challeng
 
 Traditional data center switching uses dedicated hardware devices, such as switches, to provide connectivity between workloads in the same network. This approach prevents organizations from achieving a complete software-defined data center and presents limited flexibility and operational challenges for network administrators.
 
-![Traditional+Data+Center+Switching](13%20Benefits%20of%20NSX-T%20Data%20Center%20Logical%20Switching.assets/Traditional+Data+Center+Switching.svg)
+![Traditional+Data+Center+Switching](assets/Traditional+Data+Center+Switching.svg)
 
 ### Complex Configuration
 
@@ -1886,7 +1886,7 @@ The solution to these traditional data center challenges is to virtualize the ne
 
 NSX-T Data Center uses software-defined switches, called segments. These segments can connect virtual machines and containers regardless of their physical location or the type of hypervisor that they are running on. NSX-T Data Center provides layer 2 connectivity without changing the underlying physical network.
 
-![NSX-T+Data+Center+Logical+Switching](13%20Benefits%20of%20NSX-T%20Data%20Center%20Logical%20Switching.assets/NSX-T+Data+Center+Logical+Switching.svg)
+![NSX-T+Data+Center+Logical+Switching](assets/NSX-T+Data+Center+Logical+Switching.svg)
 
 ### Simple and Rapid Deployment
 
