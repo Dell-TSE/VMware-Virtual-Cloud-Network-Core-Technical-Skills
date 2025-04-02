@@ -18,7 +18,7 @@ In the NSX-T Data Center architecture:
 - The management and control planes reside in a single virtual appliance called NSX Manager.
 - The data plane includes a group of ESXi hosts, KVM hosts, bare-metal servers, and NSX Edge nodes that are responsible for forwarding the traffic. These servers and edges configured to participate in the NSX network are called transport nodes.
 
-![image-20211213191040157](12%20NSX-T%20Data%20Center%20Architecture.assets/image-20211213191040157.png)
+![image-20211213191040157](assets/image-20211213191040157.png)
 
 ### Management Plane
 
