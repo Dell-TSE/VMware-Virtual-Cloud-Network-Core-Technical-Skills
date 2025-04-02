@@ -1,10 +1,18 @@
 {
-  "showFrontmatter": false,
-  "foldIndent": true,
-  "foldHeading": true,
+  "livePreview": true,
   "showLineNumber": true,
   "useTab": false,
-  "trashOption": "system",
+  "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "vimMode": true
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./assets",
+  "tabSize": 4
 }

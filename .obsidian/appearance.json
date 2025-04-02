@@ -1,4 +1,9 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "Minimal"
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "Things",
+  "monospaceFontFamily": "Iosevka",
+  "enabledCssSnippets": [
+    "callout-checklist"
+  ]
 }
