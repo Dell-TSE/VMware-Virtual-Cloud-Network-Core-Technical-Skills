@@ -424,7 +424,7 @@ In addition to these two core components, the vSphere virtual infrastructure inc
 
 ### Role of vSphere Components
 
-![image-20211209083002773](03%20VMware%20vSphere%20Components%20and%20Features.assets/image-20211209083002773.png)
+![image-20211209083002773](assets/image-20211209083002773.png)
 
 - The vSphere Client is a graphical interface for administering vCenter Server. It is the visual part of the software where you view and interact with the buttons and controls.
 
@@ -471,13 +471,13 @@ Virtual machines can be moved or migrated from one host to another host with zer
 
 When you use the VMware vSphere® High Availability feature, a physical server failure does not stop your business. Virtual machines on the failed host are automatically started on other hosts. This feature minimizes the downtime, which is experienced by a physical server failure, to 1 or 2 minutes.
 
-![vsphere-ha](03%20VMware%20vSphere%20Components%20and%20Features.assets/vsphere-ha.svg)
+![vsphere-ha](assets/vsphere-ha.svg)
 
 ### vSphere DRS
 
 Virtual servers that require heavy server resources can be moved automatically to hosts that have available capacity by using the VMware vSphere® Distributed Resource Scheduler™ feature. This feature ensures that all virtual servers can work at 100 percent capacity and access the resources that they need despite the loads of other virtual machines.
 
-![vsphere-drs](03%20VMware%20vSphere%20Components%20and%20Features.assets/vsphere-drs.svg)
+![vsphere-drs](assets/vsphere-drs.svg)
 
 ## Summary
 

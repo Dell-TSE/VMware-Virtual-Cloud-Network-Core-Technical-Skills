@@ -28,7 +28,7 @@ In addition to these two core components, the vSphere virtual infrastructure inc
 
 ### Role of vSphere Components
 
-![image-20211209083002773](03%20VMware%20vSphere%20Components%20and%20Features.assets/image-20211209083002773.png)
+![image-20211209083002773](assets/image-20211209083002773.png)
 
 - The vSphere Client is a graphical interface for administering vCenter Server. It is the visual part of the software where you view and interact with the buttons and controls.
 
@@ -69,19 +69,19 @@ Migrating from a physical infrastructure to a virtual infrastructure provides nu
 
 Virtual machines can be moved or migrated from one host to another host with zero downtime by using the VMware vSphere® vMotion® feature. If a physical host must be shut down for maintenance or upgrade, all virtual machines running on that host can be migrated to other hosts. This method ensures that no downtime occurs for maintenance operations.
 
-![vSphere-vMotion](03%20VMware%20vSphere%20Components%20and%20Features.assets/vSphere-vMotion.svg)
+![vSphere-vMotion](assets/vSphere-vMotion.svg)
 
 ### vSphere HA
 
 When you use the VMware vSphere® High Availability feature, a physical server failure does not stop your business. Virtual machines on the failed host are automatically started on other hosts. This feature minimizes the downtime, which is experienced by a physical server failure, to 1 or 2 minutes.
 
-![vsphere-ha](03%20VMware%20vSphere%20Components%20and%20Features.assets/vsphere-ha.svg)
+![vsphere-ha](assets/vsphere-ha.svg)
 
 ### vSphere DRS
 
 Virtual servers that require heavy server resources can be moved automatically to hosts that have available capacity by using the VMware vSphere® Distributed Resource Scheduler™ feature. This feature ensures that all virtual servers can work at 100 percent capacity and access the resources that they need despite the loads of other virtual machines.
 
-![vsphere-drs](03%20VMware%20vSphere%20Components%20and%20Features.assets/vsphere-drs.svg)
+![vsphere-drs](assets/vsphere-drs.svg)
 
 ## Summary
 
