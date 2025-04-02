@@ -174,22 +174,24 @@ NSX Logical Routing
 
 ### Identifying the Use Cases for NSX-T Data Center Logical Routing
 
-What are the uses cases for NSX-T Data Center logical routing?
-Select the two options that best answer the question and click Submit.
-
-- [ ] Provides intrinsic security for VMs connected to different segments.
-- [x] Provide external connectivity to VMs and containers.
-- [ ] Provides layer 2 connectivity between VMs and microservices.
-- [x] Provide connectivity between VMs or containers connected to different segments.
+> [!question]
+> What are the uses cases for NSX-T Data Center logical routing?
+> Select the two options that best answer the question and click Submit.
+> 
+> - [ ] Provides intrinsic security for VMs connected to different segments.
+> - [x] Provide external connectivity to VMs and containers.
+> - [ ] Provides layer 2 connectivity between VMs and microservices.
+> - [x] Provide connectivity between VMs or containers connected to different segments.
 
 ### Use Case for Logical Routing
 
 A team of software developers recently deployed a three-tier application that includes web servers, application servers, and database servers. These servers are currently connected to different segments. The junior network administrator must ensure that the servers of the three-tier application can communicate with each other. Users must also be able to access the three-tier application from the external network. A multitier deployment must be used. What are the steps that the administrator must perform to complete this task?
 
-Select the two options that best answer the question and click **Submit**.
-
-- [ ] Connect the three segments to a Tier-0 gateway from the NSX UI.
-- [ ] Connect the three segments to the external router from the NSX UI.
-- [x] Connect the three segments to a Tier-1 gateway from the NSX UI.
-- [ ] Connect the Tier-1 gateway to the external router from the NSX UI.
-- [x] Connect the Tier-1 gateway to the Tier-0 gateway from the NSX UI.
+> [!question]
+> Select the two options that best answer the question and click **Submit**.
+> 
+> - [ ] Connect the three segments to a Tier-0 gateway from the NSX UI.
+> - [ ] Connect the three segments to the external router from the NSX UI.
+> - [x] Connect the three segments to a Tier-1 gateway from the NSX UI.
+> - [ ] Connect the Tier-1 gateway to the external router from the NSX UI.
+> - [x] Connect the Tier-1 gateway to the Tier-0 gateway from the NSX UI.
