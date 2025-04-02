@@ -2707,19 +2707,19 @@ Micro-segmentation helps to build a Zero-Trust approach to security by defining 
 
 To build the zero-trust security data center, determine the VMs that contain an application and the network traffic that is necessary for the application to function.
 
-![EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_1](20%20Zero-Trust%20Security.assets/EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_1.svg)
+![EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_1](assets/EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_1.svg)
 
 ### Step 2: Create micro-segments.
 
 When you understand an application’s composition and necessary network traffic, you can create micro-segmentation policies to restrict unnecessary network traffic. This step immediately reduces the attack surface of the application by restricting the application to only communicating with the resources that it absolutely needs.
 
-![EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_2](20%20Zero-Trust%20Security.assets/EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_2.svg)
+![EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_2](assets/EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_2.svg)
 
 ### Step 3: Secure through context.
 
 Use security policies to establish how the virtual machines and containers should behave, including the processes that should be running and how the OS should be configured. This step secures the traffic and the context of the application.
 
-![EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_3](20%20Zero-Trust%20Security.assets/EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_3.svg)
+![EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_3](assets/EnforcingtheZero-TrustSecurityModelofMicro-Segmentation_3.svg)
 
 ## Summary
 
