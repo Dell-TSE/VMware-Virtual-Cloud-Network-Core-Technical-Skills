@@ -28,7 +28,7 @@ Tier-0 gateways have the following characteristics:
 - Support static and dynamic routing protocols (BGP Border Gateway Protocol (BGP) is a dynamic routing protocol that is used to route traffic across the Internet.) towards the physical network.
 - Support equal-cost multipath (ECMP Equal-Cost Multipath (ECMP) is a routing protocol that increases the external network bandwidth by adding network links.) routing to load balance traffic and provide fault tolerance.
 
-![LogicalRouting-T0](17%20NSX%20Routing%20Components.assets/LogicalRouting-T0.svg)
+![LogicalRouting-T0](assets/LogicalRouting-T0.svg)
 
 #### Tier-1 Gateway
 
@@ -42,7 +42,7 @@ Tier-1 gateways have the following characteristics:
 - Do not use any dynamic routing protocols
 - Connect to a Tier-0 gateway for external connectivity
 
-![LogicalRouting-T1](17%20NSX%20Routing%20Components.assets/LogicalRouting-T1.svg)
+![LogicalRouting-T1](assets/LogicalRouting-T1.svg)
 
 ### Logical Routing Topologies
 
@@ -54,7 +54,7 @@ In a multitier deployment, segments are connected to the Tier-1 gateways, and th
 
 This topology is typically used when different teams or business units manage the Tier-0 and Tier-1 gateways. For example, the cloud provider manages the Tier-0 gateways, and each tenant is responsible for its own Tier-1 gateway.
 
-![MultitierTopology](17%20NSX%20Routing%20Components.assets/MultitierTopology.svg)
+![MultitierTopology](assets/MultitierTopology.svg)
 
 #### Single-Tier Topology
 
@@ -62,7 +62,7 @@ In a single-tier deployment, segments are connected directly to the Tier-0 gatew
 
 This topology is used when the same team or business unit manages all gateways. For example, the service provider and tenant are the same and do not need to be separated.
 
-![Single-Tier+Topology](17%20NSX%20Routing%20Components.assets/Single-Tier+Topology.svg)
+![Single-Tier+Topology](assets/Single-Tier+Topology.svg)
 
 ## Summary
 
