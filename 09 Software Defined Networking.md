@@ -38,7 +38,7 @@ The key difference between SDN and traditional networking is infrastructure: SDN
 
 In a traditional network architecture, the data plane, control plane, and management plane reside on the same hardware device, such as a router or switch.
 
-![Traditional_Network](09%20Software%20Defined%20Networking.assets/Traditional_Network.svg)
+![Traditional_Network](assets/Traditional_Network.svg)
 
 #### Software-Defined Networking
 
@@ -48,7 +48,7 @@ The software-defined controllers continue to direct the network traffic and comm
 
 Because the control plane is software-based, SDN is much more flexible than traditional networking. It enables administrators to control the network, change configuration settings, provision resources, and increase network capacity from a centralized user interface, without adding more hardware.
 
-![SDN](09%20Software%20Defined%20Networking.assets/SDN.svg)
+![SDN](assets/SDN.svg)
 
 ## SDN Architecture
 
@@ -60,7 +60,7 @@ A typical SDN architecture includes the following components:
 - Controllers (of the control plane), which use the information from applications to decide how to route a data packet in a network
 - Network devices (of the data plane), which receive information from the controller about where to move the data packet
 
-![SDN_Architecture](09%20Software%20Defined%20Networking.assets/SDN_Architecture.svg)
+![SDN_Architecture](assets/SDN_Architecture.svg)
 
 ### Using the Software-Defined Networking Approach at VMBeans
 
