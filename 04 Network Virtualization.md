@@ -52,7 +52,7 @@ These network and security services are delivered in software and require only I
 
 When a workload (VM or container) is moved from one host to another host, its networking and security policies move with it. When workloads are created to scale an application, the necessary policies are dynamically applied to those workloads as well.
 
-![Implementing+Network+Virtualization](04%20Network%20Virtualization.assets/Implementing+Network+Virtualization.svg)
+![Implementing+Network+Virtualization](assets/Implementing+Network+Virtualization.svg)
 
 ### Benefits of Network Virtualization
 
