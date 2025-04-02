@@ -196,12 +196,13 @@ This completes the simulation.
 
 ### About Standard Switches
 
-Which statements accurately describe standard switches? Select all options that apply. Then click **Submit**.
-
-- [ ] A standard switch is a virtual switch that is managed by vCenter Server for all the ESXi hosts.
-- [ ] A standard switch differs from a virtual switch because standard switches contain VMkernel ports.
-- [x] A standard switch is a virtual switch that is configured for a single ESXi host.
-- [x] An ESXi host can contain one or more standard switches.
+> [!question]
+> Which statements accurately describe standard switches? Select all options that apply. Then click **Submit**.
+> 
+> - [ ] A standard switch is a virtual switch that is managed by vCenter Server for all the ESXi hosts.
+> - [ ] A standard switch differs from a virtual switch because standard switches contain VMkernel ports.
+> - [x] A standard switch is a virtual switch that is configured for a single ESXi host.
+> - [x] An ESXi host can contain one or more standard switches.
 
 ### Standard Switch Naming Conventions
 
