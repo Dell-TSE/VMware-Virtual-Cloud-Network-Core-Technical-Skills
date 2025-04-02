@@ -15,7 +15,7 @@ VMBeans has many data centers spread across the country. As a network administra
 
 In NSX-T Data Center, segments connect virtual machines and containers regardless of their physical location and the type of hypervisor they are running on.
 
-![image-20211215001440157](14%20NSX%20Logical%20Switching%20Components.assets/image-20211215001440157.png)
+![image-20211215001440157](assets/image-20211215001440157.png)
 
 - Virtual machines: You can connect virtual machines to a segment regardless of their physical location and the type of hypervisor they are running on.
 
@@ -44,7 +44,7 @@ In NSX-T Data Center, segments connect virtual machines and containers regardles
 
 A transport zone defines the scope of a segment or the numbers of transport nodes (VMware ESXi™ hosts, KVM (Kernel-based Virtual Machine (KVM) is a virtualization module in Linux that allows the kernel to function as a hypervisor.) hosts, bare-metal servers, and VMware NSX® Edge™ nodes) across which it expands. A segment belongs to either a VLAN or an overlay transport zone.
 
-![AboutTransportZones_1](14%20NSX%20Logical%20Switching%20Components.assets/AboutTransportZones_1.svg)
+![AboutTransportZones_1](assets/AboutTransportZones_1.svg)
 
 ### VLAN Transport Zone
 
