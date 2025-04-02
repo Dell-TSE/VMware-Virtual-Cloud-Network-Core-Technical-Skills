@@ -3056,7 +3056,7 @@ DHCP allows clients to automatically obtain network configuration settings such 
 
 - Dynamic Host Configuration Protocol is a network management protocol used on Internet Protocol networks. A DHCP server dynamically assigns an IP address and other network configuration parameters to each device on the network, so that the device can communicate with other IP networks.
 
-![DHCP-usecase](22%20NSX%20DHCP.assets/DHCP-usecase.svg)
+![DHCP-usecase](assets/DHCP-usecase.svg)
 
 ## Implementing DHCP in NSX-T Data Center
 
@@ -3068,13 +3068,13 @@ You can create a DHCP server on a Tier-1 or Tier-0 gateway that manages DHCP req
 
 In this configuration, the DHCP requests are managed within the NSX environment, without relying on any external DHCP server.
 
-![DHCP_Server](22%20NSX%20DHCP.assets/DHCP_Server.svg)
+![DHCP_Server](assets/DHCP_Server.svg)
 
 ### DHCP Relay
 
 You can configure a DHCP relay on a Tier-1 or Tier-0 gateway to forward DHCP requests from the NSX workloads to external DHCP servers.
 
-![DHCP_Relay](22%20NSX%20DHCP.assets/DHCP_Relay.svg)
+![DHCP_Relay](assets/DHCP_Relay.svg)
 
 ## Summary
 
