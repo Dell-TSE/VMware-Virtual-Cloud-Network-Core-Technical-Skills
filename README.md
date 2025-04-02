@@ -38,32 +38,33 @@ The course aligns with the VMware Certified Technical Associate (VCTA) certifica
 - Explain the VMware Virtual Cloud Network vision
 
 ## Modules
-1. [vSphere and the Software-Defined Data Center](./01 vSphere and the Software-Defined Data Center.md)
-2. VMware SDDC Solutions
-3. VMware vSphere Components and Features
-4. Network Virtualization
-5. Virtual Switches Overview
-6. vSphere Standard Switches
-7. vSphere Distributed Switches
-8. Management, Control and Data Plane
-9. Software Defined Networking
-10. Introduction to NSX-T Data Center
-11. NSX-T Data Center Components
-12. NSX-T Data Center Architecture
-13. Benefits of NSX-T Data Center Logical Switching
-14. NSX Logical Switching Components
-15. NSX Logical Switching
-16. Benefits of NSX-T Data Center Logical Routing
-17. NSX Routing Components
-18. NSX Logical Routing
-19. Micro-segmentation
-20. Zero-Trust Security
-21. NSX Data Center Firewalls
-22. NSX DHCP
-23. NSX DNS
-24. NSX NAT
-25. NSX Load Balancing
-26. NSX VPNs
-27. Virtual Cloud Network
+
+1. [01 vSphere and the Software-Defined Data Center](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.md)
+2. [02 VMware SDDC Solutions](02%20VMware%20SDDC%20Solutions.md)
+3. [03 VMware vSphere Components and Features](03%20VMware%20vSphere%20Components%20and%20Features.md)
+4. [04 Network Virtualization](04%20Network%20Virtualization.md)
+5. [05 Virtual Switches Overview](05%20Virtual%20Switches%20Overview.md)
+6. [06 vSphere Standard Switches](06%20vSphere%20Standard%20Switches.md)
+7. [07 vSphere Distributed Switches](07%20vSphere%20Distributed%20Switches.md)
+8. [08 Management Control and Data Plane](08%20Management%20Control%20and%20Data%20Plane.md)
+9. [09 Software Defined Networking](09%20Software%20Defined%20Networking.md)
+10. [10 Introduction to NSX-T Data Center](10%20Introduction%20to%20NSX-T%20Data%20Center.md)
+11. [11 NSX-T Data Center Components](11%20NSX-T%20Data%20Center%20Components.md)
+12. [12 NSX-T Data Center Architecture](12%20NSX-T%20Data%20Center%20Architecture.md)
+13. [13 Benefits of NSX-T Data Center Logical Switching](13%20Benefits%20of%20NSX-T%20Data%20Center%20Logical%20Switching.md)
+14. [14 NSX Logical Switching Components](14%20NSX%20Logical%20Switching%20Components.md)
+15. [15 NSX Logical Switching](15%20NSX%20Logical%20Switching.md)
+16. [16 Benefits of NSX-T Data Center Logical Routing](16%20Benefits%20of%20NSX-T%20Data%20Center%20Logical%20Routing.md)
+17. [17 NSX Routing Components](17%20NSX%20Routing%20Components.md)
+18. [18 NSX Logical Routing](18%20NSX%20Logical%20Routing.md)
+19. [19 Micro-segmentation](19%20Micro-segmentation.md)
+20. [20 Zero-Trust Security](20%20Zero-Trust%20Security.md)
+21. [21 NSX Data Center Firewalls](21%20NSX%20Data%20Center%20Firewalls.md)
+22. [22 NSX DHCP](22%20NSX%20DHCP.md)
+23. [23 NSX DNS](23%20NSX%20DNS.md)
+24. [24 NSX NAT](24%20NSX%20NAT.md)
+25. [25 NSX Load Balancing](25%20NSX%20Load%20Balancing.md)
+26. [26 NSX VPNs](26%20NSX%20VPNs.md)
+27. [27 Virtual Cloud Network](27%20Virtual%20Cloud%20Network.md)
 28. Certification Information
 
