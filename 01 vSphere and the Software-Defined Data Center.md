@@ -33,7 +33,7 @@ An SDDC uses different types of virtualization to deliver its resources as servi
 
 Exploring Types of Virtualization.
 
-![image-20211209074703713](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/image-20211209074703713.png)
+![image-20211209074703713](assets/image-20211209074703713.png)
 
 #### Server Virtualization
 
@@ -44,11 +44,11 @@ Each VM can access the underlying computing resources of the physical server.
 Server virtualization solution: vSphere
 vSphere abstracts the physical resources of a host computer and makes them available to multiple guest virtual machines.
 
-![Server-Virtualization](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Server-Virtualization.svg)
+![Server-Virtualization](assets/Server-Virtualization.svg)
 
 #### Storage Virtualization
 
-![Storage-Virtualization](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Storage-Virtualization.svg)
+![Storage-Virtualization](assets/Storage-Virtualization.svg)
 
 By virtualizing storage, you separate the underlying hardware infrastructure from software-based storage management, providing more flexibility and scalability to your storage resources.
 
@@ -57,7 +57,7 @@ vSAN provides storage virtualization at the host level and logically abstracts t
 
 #### Network Virtualization
 
-![VirtualNetwork_VirtualMachines](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/VirtualNetwork_VirtualMachines.svg)
+![VirtualNetwork_VirtualMachines](assets/VirtualNetwork_VirtualMachines.svg)
 
 Network virtualization presents logical networking devices and services such as ports, switches, routers, firewalls, load balancers, and VPNs to connected VMs.
 
@@ -66,7 +66,7 @@ NSX Data Center delivers networking and security in one software application, ab
 
 #### Desktop Virtualization
 
-![Desktop_Application_Virtualization](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Desktop_Application_Virtualization.svg)
+![Desktop_Application_Virtualization](assets/Desktop_Application_Virtualization.svg)
 
 By deploying desktops and applications as a managed service, you can respond on demand to the changing needs of your organization, using any device and any cloud.
 
@@ -96,7 +96,7 @@ vSphere is the virtualization platform that transforms traditional data centers 
 
 A standard SDDC consists of several components, each automating different types of services for users.
 
-![image-20211209075354898](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/image-20211209075354898.png)
+![image-20211209075354898](assets/image-20211209075354898.png)
 
 ##### Service Management and Automation
 
@@ -178,7 +178,7 @@ VMware Cloud Foundation integrates vSphere, NSX Data Center, and vSAN to provide
 - NSX Data Center manages the virtualization of networking.
 - vSAN manages the virtualization of storage resources.
 
-![vSphere-VMware-Cloud-Foundation](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/vSphere-VMware-Cloud-Foundation.svg)
+![vSphere-VMware-Cloud-Foundation](assets/vSphere-VMware-Cloud-Foundation.svg)
 
 ## Summary
 
@@ -206,7 +206,7 @@ Where does each component fit in the SDDC?
 
 Drag each SDDC component to the correct layer on the diagram. Then click **Submit**.
 
-![image-20211209074325778](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/image-20211209074325778.png)
+![image-20211209074325778](assets/image-20211209074325778.png)
 
 ### vSphere in the Software-Defined Data Center
 

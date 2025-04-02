@@ -102,7 +102,7 @@ An SDDC uses different types of virtualization to deliver its resources as servi
 
 Exploring Types of Virtualization.
 
-![image-20211209074703713](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/image-20211209074703713.png)
+![image-20211209074703713](assets/image-20211209074703713.png)
 
 #### Server Virtualization
 
@@ -113,7 +113,7 @@ Each VM can access the underlying computing resources of the physical server.
 Server virtualization solution: vSphere
 vSphere abstracts the physical resources of a host computer and makes them available to multiple guest virtual machines.
 
-![Server-Virtualization](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Server-Virtualization.svg)
+![Server-Virtualization](assets/Server-Virtualization.svg)
 
 #### Storage Virtualization
 
@@ -126,7 +126,7 @@ vSAN provides storage virtualization at the host level and logically abstracts t
 
 #### Network Virtualization
 
-![VirtualNetwork_VirtualMachines](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/VirtualNetwork_VirtualMachines.svg)
+![VirtualNetwork_VirtualMachines](assets/VirtualNetwork_VirtualMachines.svg)
 
 Network virtualization presents logical networking devices and services such as ports, switches, routers, firewalls, load balancers, and VPNs to connected VMs.
 
@@ -165,7 +165,7 @@ vSphere is the virtualization platform that transforms traditional data centers 
 
 A standard SDDC consists of several components, each automating different types of services for users.
 
-![image-20211209075354898](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/image-20211209075354898.png)
+![image-20211209075354898](assets/image-20211209075354898.png)
 
 ##### Service Management and Automation
 
@@ -275,7 +275,7 @@ Where does each component fit in the SDDC?
 
 Drag each SDDC component to the correct layer on the diagram. Then click **Submit**.
 
-![image-20211209074325778](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/image-20211209074325778.png)
+![image-20211209074325778](assets/image-20211209074325778.png)
 
 ### vSphere in the Software-Defined Data Center
 
