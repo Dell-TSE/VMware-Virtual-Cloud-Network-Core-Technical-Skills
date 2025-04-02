@@ -642,7 +642,7 @@ As a network administrator at VMBeans, you must ensure that customers can access
 
 Using virtual networking, you can create virtual networks in the region where a sale takes place to cope with the demand. Additional hardware is not necessary.
 
-![vmbeans.com](05%20Virtual%20Switches%20Overview.assets/vmbeans.com.svg)
+![vmbeans.com](assets/vmbeans.com.svg)
 
 ## Virtual Switches
 
@@ -656,7 +656,7 @@ VMware vSphere® has two types of virtual switches: standard switches and distri
 
 A traditional physical network connects physical machines through a physical switch, physical cables, and other physical hardware.
 
-![VirtualNetworking_PhysicalMachines](05%20Virtual%20Switches%20Overview.assets/VirtualNetworking_PhysicalMachines.svg)
+![VirtualNetworking_PhysicalMachines](assets/VirtualNetworking_PhysicalMachines.svg)
 
 #### Using a Virtual Network
 
@@ -682,7 +682,7 @@ To connect VMs and ESXi hosts to the network, a virtual switch uses specific typ
 
 #### Port Types
 
-![image-20211209085537274](05%20Virtual%20Switches%20Overview.assets/image-20211209085537274.png)
+![image-20211209085537274](assets/image-20211209085537274.png)
 
 - Uplink Ports: Uplink ports connect the virtual network to the physical network.
 
@@ -704,7 +704,7 @@ A virtual machine has a virtual network adapter, also called virtual NIC (Networ
 The virtual NIC is configured to connect to a virtual machine port group, for example, Production.
 When a virtual machine is powered on, the virtual NIC connects to a virtual port in the virtual machine port group.
 
-![VMNetworking_VirtualNIC2](05%20Virtual%20Switches%20Overview.assets/VMNetworking_VirtualNIC2.svg)
+![VMNetworking_VirtualNIC2](assets/VMNetworking_VirtualNIC2.svg)
 
 #### VM Port Group
 
@@ -718,7 +718,7 @@ VMs can communicate with other VMs in the same port group and in different port 
 
 When a VM must communicate with a computer on the physical network, the uplink ports pass traffic from the VM to the physical network adapters that they are associated with.
 
-![VMNetworking_UplinkPorts](05%20Virtual%20Switches%20Overview.assets/VMNetworking_UplinkPorts.png)
+![VMNetworking_UplinkPorts](assets/VMNetworking_UplinkPorts.png)
 
 #### Physical Network
 
@@ -726,7 +726,7 @@ The physical network adapters on the ESXi host are connected to the physical swi
 
 With this setup, a VM can communicate with a computer or device on the physical network.
 
-![VMNetworking_PhysicalSwitch](05%20Virtual%20Switches%20Overview.assets/VMNetworking_PhysicalSwitch.png)
+![VMNetworking_PhysicalSwitch](assets/VMNetworking_PhysicalSwitch.png)
 
 ### VMkernel Port
 
@@ -740,7 +740,7 @@ You can use a VMkernel port to control the management traffic. Management traffi
 
 For example, a user powers on a VM by using the VMware vSphere® Client™. To perform the task of powering on the VM, VMware vCenter Server® must communicate with the ESXi host where the VM is located.
 
-![ESXiNetworking_ManagementTraffic](05%20Virtual%20Switches%20Overview.assets/ESXiNetworking_ManagementTraffic.png)
+![ESXiNetworking_ManagementTraffic](assets/ESXiNetworking_ManagementTraffic.png)
 
 #### IP Storage Traffic
 
@@ -748,7 +748,7 @@ The storage that an ESXi host uses to store its VMs can be located on the networ
 
 ESXi uses a VMkernel port to manage traffic between the ESXi host and IP storage, such as an iSCSI storage array, where the host's VMs are stored.
 
-![ESXiNetworking_iSCSITraffic](05%20Virtual%20Switches%20Overview.assets/ESXiNetworking_iSCSITraffic.png)
+![ESXiNetworking_iSCSITraffic](assets/ESXiNetworking_iSCSITraffic.png)
 
 ### Other Types of Traffic
 
