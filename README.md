@@ -75,4 +75,4 @@ The course aligns with the VMware Certified Technical Associate (VCTA) certifica
 
 ![CRLF to LF](assets/2025-04-02_10-30-56.gif)
 
-- [ ] Move all assets (under "Topic.assets") to the `assets` folder.
+- [x] Move all assets (under "Topic.assets") to the `assets` folder.

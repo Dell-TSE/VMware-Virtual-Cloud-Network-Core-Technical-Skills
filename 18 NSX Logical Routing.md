@@ -130,13 +130,7 @@ In this simulation you will log in to the NSX UI, navigate the inventory to loca
    - ***#Linked Segments***: 3
    - ***Status***: Success
 
-   When ready, click the number,
-
-    
-
-   3
-
-   , of Linked Segments. 
+   When ready, click the number, 3, of Linked Segments. 
 
 8. Confirm that the ***App, DB*** and **Web** segments are connected to the Tier-1 Gateway, then click **CLOSE**.
 
@@ -190,16 +184,12 @@ Select the two options that best answer the question and click Submit.
 
 ### Use Case for Logical Routing
 
-A team of software developers recently deployed a three-tier application that includes web servers, application servers, and database servers. These servers are currently connected to different segments.The junior network administrator must ensure that the servers of the three-tier application can communicate with each other. Users must also be able to access the three-tier application from the external network. A multitier deployment must be used.What are the steps that the administrator must perform to complete this task?
+A team of software developers recently deployed a three-tier application that includes web servers, application servers, and database servers. These servers are currently connected to different segments. The junior network administrator must ensure that the servers of the three-tier application can communicate with each other. Users must also be able to access the three-tier application from the external network. A multitier deployment must be used. What are the steps that the administrator must perform to complete this task?
 
 Select the two options that best answer the question and click **Submit**.
 
 - [ ] Connect the three segments to a Tier-0 gateway from the NSX UI.
-
 - [ ] Connect the three segments to the external router from the NSX UI.
-
 - [x] Connect the three segments to a Tier-1 gateway from the NSX UI.
-
 - [ ] Connect the Tier-1 gateway to the external router from the NSX UI.
-
 - [x] Connect the Tier-1 gateway to the Tier-0 gateway from the NSX UI.
