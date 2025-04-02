@@ -1,6 +1,6 @@
 # ESTPYD02414 VMware Virtual Cloud Network - Core Technical Skills
 
-- Sabe: [ESTPYD02414 VMware Virtual Cloud Network - Core Technical Skills](https://dell.sabacloud.com/Saba/Web_spf/PRODTNT091/app/shared;spf-url=common%2Fledetail%2Fcours000000000456128%3FfromAutoSuggest%3Dtrue)
+- Saba: [ESTPYD02414 VMware Virtual Cloud Network - Core Technical Skills](https://dell.sabacloud.com/Saba/Web_spf/PRODTNT091/app/shared;spf-url=common%2Fledetail%2Fcours000000000456128%3FfromAutoSuggest%3Dtrue)
 - VMware: [VMware Virtual Cloud Network - Core Technical Skills | Connect Learning](https://learning.customerconnect.vmware.com/oltpublish/site/program.do?dispatch=showCourseSession&id=9fce082b-fcc8-11ea-9f48-0cc47adeb5f8&ssosign=true)
 
 ## Course Introduction:
