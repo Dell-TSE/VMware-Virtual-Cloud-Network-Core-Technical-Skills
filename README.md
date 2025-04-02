@@ -39,10 +39,10 @@ The course aligns with the VMware Certified Technical Associate (VCTA) certifica
 
 ## Modules
 
-- [ ] [01 vSphere and the Software-Defined Data Center](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.md)
-- [ ] [02 VMware SDDC Solutions](02%20VMware%20SDDC%20Solutions.md)
-- [ ] [03 VMware vSphere Components and Features](03%20VMware%20vSphere%20Components%20and%20Features.md)
-- [ ] [04 Network Virtualization](04%20Network%20Virtualization.md)
+- [ ] [01-vSphere-and-the-Software-Defined-Data-Center](01-vSphere-and-the-Software-Defined-Data-Center.md)
+- [ ] [02-VMware-SDDC-Solutions](02-VMware-SDDC-Solutions.md)
+- [ ] [03-VMware-vSphere-Components-and-Features](03-VMware-vSphere-Components-and-Features.md)
+- [ ] [04-Network-Virtualization](04-Network-Virtualization.md)
 - [ ] [05 Virtual Switches Overview](05%20Virtual%20Switches%20Overview.md)
 - [ ] [06 vSphere Standard Switches](06%20vSphere%20Standard%20Switches.md)
 - [ ] [07 vSphere Distributed Switches](07%20vSphere%20Distributed%20Switches.md)
