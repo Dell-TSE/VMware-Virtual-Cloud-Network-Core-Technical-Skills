@@ -19,7 +19,7 @@ As virtualization technologies continue to expand and companies adopt agile soft
 
 Traditional data center routing presents performance challenges for the modern data center. Traditional routing methods, where all the traffic is managed by physical routing devices, are not efficient in these scenarios and present performance challenges in the network. These challenges slow down the performance of the business-critical applications.
 
-![Traditional+Data+Center+Switching](16%20Benefits%20of%20NSX-T%20Data%20Center%20Logical%20Routing.assets/Traditional+Data+Center+Switching.svg)
+![Traditional+Data+Center+Switching](assets/Traditional+Data+Center+Switching%201.svg)
 
 ### Hairpinning
 
@@ -43,7 +43,7 @@ NSX-T Data Center logical routing reduces traffic hairpinning.
 
 NSX-T Data Center uses software-defined routers, called gateways, to connect different networks and to connect your workloads to the Internet. VMware NSX® also implements a distributed routing solution across all hypervisors to avoid hairpinning and increase the performance of your business-critical applications.
 
-![NSX-T+Data+Center+Logical+Routing](16%20Benefits%20of%20NSX-T%20Data%20Center%20Logical%20Routing.assets/NSX-T+Data+Center+Logical+Routing.svg)
+![NSX-T+Data+Center+Logical+Routing](assets/NSX-T+Data+Center+Logical+Routing.svg)
 
 ### Reduced Hairpinning
 
