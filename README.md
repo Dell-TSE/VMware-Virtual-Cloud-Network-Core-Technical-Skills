@@ -68,3 +68,7 @@ The course aligns with the VMware Certified Technical Associate (VCTA) certifica
 - [ ] [27 Virtual Cloud Network](27%20Virtual%20Cloud%20Network.md)
 - [ ] Certification Information
 
+## TODO
+
+- [ ] Convert EOL: CRLF to LF (Windows to Linux)
+- [ ] Convert image tag format: HTML (`<img src="path">`) to Markdown (`![]()`).
