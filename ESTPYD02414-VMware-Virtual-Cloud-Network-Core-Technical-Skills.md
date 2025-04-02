@@ -1493,7 +1493,7 @@ NSX Manager provides a GUI and REST APIs for creating, configuring, and monitori
 
 For high availability, you can deploy three NSX Manager instances as a cluster. This cluster is called an NSX Management cluster.
 
-![NSX+Manager](11%20NSX-T%20Data%20Center%20Components.assets/NSX+Manager.svg)
+![NSX+Manager](assets/NSX+Manager.svg)
 
 ### Compute Manager
 
@@ -1501,7 +1501,7 @@ A compute manager is an application that manages resources such as hypervisors a
 
 VMware vCenter Server® is an example of a compute manager.
 
-![Compute+Manager](11%20NSX-T%20Data%20Center%20Components.assets/Compute+Manager.svg)
+![Compute+Manager](assets/Compute+Manager.svg)
 
 ### Hypervisors
 
@@ -1509,7 +1509,7 @@ NSX-T Data Center supports ESXi and KVM-based hypervisors, which host the worklo
 
 NSX Manager prepares these hypervisors to carry the NSX traffic between the workloads. After preparation, the hypervisors can host virtual networks that are used by the workloads to connect to each other.
 
-![Hypervisors](11%20NSX-T%20Data%20Center%20Components.assets/Hypervisors.svg)
+![Hypervisors](assets/Hypervisors.svg)
 
 ### Bare-Metal Servers
 
@@ -1519,7 +1519,7 @@ NSX-T Data Center supports several Linux and Windows-based bare-metal servers.
 
 NSX Manager prepares these bare-metal servers to carry the NSX traffic. After preparation, the bare-metal servers can participate in the NSX virtual networks.
 
-![Bare-metal+Servers](11%20NSX-T%20Data%20Center%20Components.assets/Bare-metal+Servers.svg)
+![Bare-metal+Servers](assets/Bare-metal+Servers.svg)
 
 ### NSX Edge Nodes
 
