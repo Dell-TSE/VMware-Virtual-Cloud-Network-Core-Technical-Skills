@@ -69,7 +69,7 @@ Migrating from a physical infrastructure to a virtual infrastructure provides nu
 
 Virtual machines can be moved or migrated from one host to another host with zero downtime by using the VMware vSphere® vMotion® feature. If a physical host must be shut down for maintenance or upgrade, all virtual machines running on that host can be migrated to other hosts. This method ensures that no downtime occurs for maintenance operations.
 
-<img src="03%20VMware%20vSphere%20Components%20and%20Features.assets/vSphere-vMotion.svg" alt="vSphere-vMotion" style="zoom:25%;" />
+![vSphere-vMotion](03%20VMware%20vSphere%20Components%20and%20Features.assets/vSphere-vMotion.svg)
 
 ### vSphere HA
 
