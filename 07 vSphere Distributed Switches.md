@@ -16,7 +16,7 @@
 
 ### Benefits of Distributed Switches
 
-![DistributedSwitch_WhatIs2](07%20vSphere%20Distributed%20Switches.assets/DistributedSwitch_WhatIs2.svg)
+![DistributedSwitch_WhatIs2](assets/DistributedSwitch_WhatIs2.svg)
 
 vSphere Distributed Switch is a virtual switch that provides virtual networking for all ESXi hosts in a data center.
 
@@ -51,7 +51,7 @@ In the distributed switch architecture, the virtual networking configuration is 
 - The port group and VMkernel port configuration is automatically pushed down to all connected ESXi hosts.
 - Each ESXi host is responsible for managing their own uplink adapters and for forwarding packets from VMs to their destinations.
 
-![DistributedSwitch_Architecture](07%20vSphere%20Distributed%20Switches.assets/DistributedSwitch_Architecture.png)
+![DistributedSwitch_Architecture](assets/DistributedSwitch_Architecture.png)
 
 ## Viewing a Distributed Switch Configuration
 
@@ -61,15 +61,15 @@ You can view details about the configuration of a distributed switch in the vSph
 
 You select the distributed switch in the Networking view of the navigation pane.
 
-![2021-12-13_10-19-42](07%20vSphere%20Distributed%20Switches.assets/2021-12-13_10-19-42.png)
+![2021-12-13_10-19-42](assets/2021-12-13_10-19-42.png)
 
 The **Summary** tab shows switch details and supported features of the distributed switch.
 
-![2021-12-13_10-20-20](07%20vSphere%20Distributed%20Switches.assets/2021-12-13_10-20-20.png)
+![2021-12-13_10-20-20](assets/2021-12-13_10-20-20.png)
 
 The **Hosts** tab shows the names and status of the hosts that are currently connected to the distributed switch.
 
-![2021-12-13_10-20-43](07%20vSphere%20Distributed%20Switches.assets/2021-12-13_10-20-43.png)
+![2021-12-13_10-20-43](assets/2021-12-13_10-20-43.png)
 
 ### Viewing the Distributed Switch Topology
 
@@ -79,7 +79,7 @@ To view the topology of a distributed switch, you select the **Configure** tab. 
 
 Explore this example topology of a distributed switch called dvs-SA-Datacenter to find information about its components.
 
-![image-20211213102145650](07%20vSphere%20Distributed%20Switches.assets/image-20211213102145650.png)
+![image-20211213102145650](assets/image-20211213102145650.png)
 
 - pg-SA-Management:
   is the port group for ESXi management traffic.
@@ -149,7 +149,7 @@ Which features apply to distributed and standard switches?
 
  View the topology diagram and match the distributed switch component with the correct description. Then click **Submit**.
 
-![image-20211213103152807](07%20vSphere%20Distributed%20Switches.assets/image-20211213103152807.png)
+![image-20211213103152807](assets/image-20211213103152807.png)
 
 | Components       | Descriptions                                        |
 | ---------------- | --------------------------------------------------- |
