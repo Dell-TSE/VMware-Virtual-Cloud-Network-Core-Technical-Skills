@@ -17,7 +17,7 @@ As a new administrator, you are tasked with assisting with the implementation of
 At VMBeans, vSphere integrates with each layer of the SDDC infrastructure.
 Which VMware solutions integrate with vSphere in each layer of the SDDC? What problems do the solutions solve?
 
-<img src="02%20VMware%20SDDC%20Solutions.assets/VMware_SDDC.svg" alt="VMware_SDDC" style="zoom: 25%;" />
+![VMware_SDDC](assets/VMware_SDDC.svg)
 
 #### Physical
 
@@ -90,4 +90,3 @@ What solutions does each layer of an SDDC integrate with?
 | Service management and automation | vRealize Operations and vRealize Automation   |
 | Virtual infrastructure            | vSphere, NSX Data Center, and vSAN            |
 | Security                          | VMware AppDefense and VMware Carbon Black     |
-
