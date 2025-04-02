@@ -26,7 +26,7 @@ You can use the VMware NSX-T™ Data Center logical routing capabilities to addr
 
 Tier-1 gateways are typically used to connect virtual machines and containers running on different networks or segments, while Tier-0 gateways are used to provide connectivity to the external networks and the Internet.
 
-![UseCase](18%20NSX%20Logical%20Routing.assets/UseCase.svg)
+![UseCase](assets/UseCase.svg)
 
 ## Hands-On Practice
 
