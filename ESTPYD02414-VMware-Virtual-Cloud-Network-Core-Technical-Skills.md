@@ -2773,7 +2773,7 @@ NSX-T Data Center firewalls can help resolve these security problems:
 - Gateway firewalls prevent users from accessing your servers through the Internet.
 - Distributed firewalls prevent web developers from accidentally accessing your database and deleting valuable information.
 
-![UseCaseFirewalls](21%20NSX%20Data%20Center%20Firewalls.assets/UseCaseFirewalls.svg)
+![UseCaseFirewalls](assets/UseCaseFirewalls.svg)
 
 ## About NSX Firewalls
 
@@ -2793,7 +2793,7 @@ The gateway firewall has the following features:
   - Stateless: Stateless firewall rules allow or deny traffic based on the source, destination, and protocol or port combination of the packet.
   - Stateful: Stateful firewall rules perform packet inspection and track the state of network connections. Packets matching a known active connection are allowed, whereas packets that do not match are evaluated in a stateless manner.
 
-![NSX-TGatewayFirewall](21%20NSX%20Data%20Center%20Firewalls.assets/NSX-TGatewayFirewall.svg)
+![NSX-TGatewayFirewall](assets/NSX-TGatewayFirewall.svg)
 
 ### Distributed Firewall
 
@@ -2822,7 +2822,7 @@ Layer 3, or the Network layer, of the OSI model is responsible for routing messa
 
 Identity Firewall allows or denies network traffic based on users and user groups.
 
-![NSX-TDistributedFirewall](21%20NSX%20Data%20Center%20Firewalls.assets/NSX-TDistributedFirewall.svg)
+![NSX-TDistributedFirewall](assets/NSX-TDistributedFirewall.svg)
 
 ## Security Policies and Rules
 
@@ -2837,7 +2837,7 @@ Firewall rules are processed top to bottom:
 - Each packet is matched against the first rule in the policy before moving to the next rule.
 - The first rule in the policy that matches the traffic parameters is applied. Subsequent rules are not evaluated.
 
-![image-20211215012456704](21%20NSX%20Data%20Center%20Firewalls.assets/image-20211215012456704.png)
+![image-20211215012456704](assets/image-20211215012456704.png)
 
 - Name:
   - Add a meaningful name for the firewall rule.
@@ -2877,7 +2877,7 @@ In this simulation, you perform the following tasks:
 
 ### Simulation: Identifying and Validating Preconfigured Distributed Firewall Rules
 
-![image-20211215013504110](21%20NSX%20Data%20Center%20Firewalls.assets/image-20211215013504110.png)
+![image-20211215013504110](assets/image-20211215013504110.png)
 
 In this simulation, you navigate to the Distributed Firewall in NSX UI, examine the preconfigured rules, and validate the rules operate correctly.
 
@@ -2941,7 +2941,7 @@ The simulation is now complete.
 
 ### Simulation: Identifying and Validating Preconfigured Gateway Firewall Rules
 
-![image-20211215013551132](21%20NSX%20Data%20Center%20Firewalls.assets/image-20211215013551132.png)
+![image-20211215013551132](assets/image-20211215013551132.png)
 
 In this simulation, you navigate to the Gateway Firewall in the NSX UI, examine the preconfigured rules, and validate the rules operate correctly. 
 
@@ -3026,7 +3026,7 @@ Select the option that best answers the question and click Submit.
 Which statement is true about the firewall rule in the screenshot?
 Select the option that best answers the question and click **Submit**.
 
-![2021-12-15-01-39-32-543](21%20NSX%20Data%20Center%20Firewalls.assets/2021-12-15-01-39-32-543.png)
+![2021-12-15-01-39-32-543](assets/2021-12-15-01-39-32-543.png)
 
 - [ ] It is a gateway firewall applied to a Tier-1 gateway, which rejects the traffic on port 22.
 - [ ] It is a distributed firewall applied to App-Servers, DB-Servers, and Web-Servers, which reject the traffic on port 22.
