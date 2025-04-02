@@ -41,18 +41,20 @@ NSX-T Data Center Tier-1 and Tier-0 gateways can be configured as DNS forwarders
 
 ## Knowledge Check
 
-To which address or tag does DNS resolve a computer name?
-Select the option that best answers the question and click **Submit**.
+> [!question]
+> To which address or tag does DNS resolve a computer name?
+> Select the option that best answers the question and click **Submit**.
+> 
+> - [ ] Asset Tag
+> - [x] IP Address
+> - [ ] Postal Address
+> - [ ] MAC Address
 
-- [ ] Asset Tag
-- [x] IP Address
-- [ ] Postal Address
-- [ ] MAC Address
-
-NSX-T Data Center Tier-1 and Tier-0 gateways can be configured as a DNS ________.
-Select the missing word that completes the sentence:
-
-- [x] Forwarder
-- [ ] Server
-- [ ] Relay
-- [ ] Client
+> [!question]
+> NSX-T Data Center Tier-1 and Tier-0 gateways can be configured as a DNS `________`.
+> Select the missing word that completes the sentence:
+> 
+> - [x] Forwarder
+> - [ ] Server
+> - [ ] Relay
+> - [ ] Client
