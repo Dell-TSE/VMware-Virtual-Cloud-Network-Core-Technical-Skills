@@ -1419,7 +1419,7 @@ NSX-T Data Center provides the following advantages:
 - Provides a single access point to manage and monitor the network.
 - Software-based networking and security solutions are easier to design, deploy, and manage compared to traditional hardware-based solutions.
 
-![NSXT-overview](10%20Introduction%20to%20NSX-T%20Data%20Center.assets/NSXT-overview.svg)
+![NSXT-overview](assets/NSXT-overview.svg)
 
 ### Use Cases for NSX-T Data Center
 
