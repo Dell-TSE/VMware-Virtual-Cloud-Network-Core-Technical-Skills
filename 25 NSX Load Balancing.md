@@ -19,7 +19,7 @@ As VMBeans continues to expand, additional web servers are required to ensure go
 
 The NSX-T Data Center load balancer distributes incoming service requests among multiple servers and offers high availability for applications.
 
-![LoadBalancer-usecase](25%20NSX%20Load%20Balancing.assets/LoadBalancer-usecase.svg)
+![LoadBalancer-usecase](assets/LoadBalancer-usecase.svg)
 
 ### Use Cases for Load Balancing
 
@@ -54,7 +54,7 @@ The layer 4 load balancer operates at the transport layer with protocols such as
 
   User Datagram Protocol is a communications protocol that is used for establishing low-latency and loss-tolerating connections between applications on the Internet. UDP is optimized for speed and does not guarantee error-free transmission of data.
 
-![LB_4](25%20NSX%20Load%20Balancing.assets/LB_4.svg)
+![LB_4](assets/LB_4.svg)
 
 ### Layer 7 Load Balancer
 
@@ -67,7 +67,7 @@ The layer 7 load balancer operates at the application layer and inspects the con
 - URL manipulation:
   - The URL is the address of a webpage on the Internet. The URL appears in the browser address bar. URL manipulation allows the modification of the URL or HTTP header contents as the traffic transits the load balancer.
 
-![LB_7](25%20NSX%20Load%20Balancing.assets/LB_7.svg)
+![LB_7](assets/LB_7.svg)
 
 ## Summary
 
