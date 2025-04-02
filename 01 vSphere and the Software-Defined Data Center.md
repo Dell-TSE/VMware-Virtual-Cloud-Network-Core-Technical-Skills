@@ -66,7 +66,7 @@ NSX Data Center delivers networking and security in one software application, ab
 
 #### Desktop Virtualization
 
-<img src="01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Desktop_Application_Virtualization.svg" alt="Desktop_Application_Virtualization" style="zoom: 25%;" />
+![Desktop_Application_Virtualization](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Desktop_Application_Virtualization.svg)
 
 By deploying desktops and applications as a managed service, you can respond on demand to the changing needs of your organization, using any device and any cloud.
 
@@ -178,7 +178,7 @@ VMware Cloud Foundation integrates vSphere, NSX Data Center, and vSAN to provide
 - NSX Data Center manages the virtualization of networking.
 - vSAN manages the virtualization of storage resources.
 
-<img src="01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/vSphere-VMware-Cloud-Foundation.svg" alt="vSphere-VMware-Cloud-Foundation" style="zoom: 10%;" />
+![vSphere-VMware-Cloud-Foundation](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/vSphere-VMware-Cloud-Foundation.svg)
 
 ## Summary
 
