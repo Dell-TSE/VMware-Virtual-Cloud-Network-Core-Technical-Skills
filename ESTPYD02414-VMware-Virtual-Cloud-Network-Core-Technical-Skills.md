@@ -3203,7 +3203,7 @@ NAT is a mechanism used to translate between private IP addresses and public IP 
 
   One public IP address is mapped to multiple private IP addresses.
 
-![NAT-usecase](24%20NSX%20NAT.assets/NAT-usecase.svg)
+![NAT-usecase](assets/NAT-usecase.svg)
 
 
 
@@ -3215,13 +3215,13 @@ NSX-T Data Center enables you to create both source NAT (SNAT) and destination N
 
 SNAT translates the source IP packets from a private IP address to a known public IP address. SNAT is used for traffic originating in the private network and reaching the Internet.
 
-![SNAT](24%20NSX%20NAT.assets/SNAT.svg)
+![SNAT](assets/SNAT.svg)
 
 ### Destination NAT
 
 DNAT translates the destination public IP address to a private IP. DNAT is used for traffic originating on the Internet and reaching the private network.
 
-![DNAT](24%20NSX%20NAT.assets/DNAT.svg)
+![DNAT](assets/DNAT.svg)
 
 ## Summary
 
