@@ -48,7 +48,7 @@ vSphere abstracts the physical resources of a host computer and makes them avail
 
 #### Storage Virtualization
 
-<img src="01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Storage-Virtualization.svg" alt="Storage-Virtualization" style="zoom:33%;" />
+![Storage-Virtualization](01%20vSphere%20and%20the%20Software-Defined%20Data%20Center.assets/Storage-Virtualization.svg)
 
 By virtualizing storage, you separate the underlying hardware infrastructure from software-based storage management, providing more flexibility and scalability to your storage resources.
 
