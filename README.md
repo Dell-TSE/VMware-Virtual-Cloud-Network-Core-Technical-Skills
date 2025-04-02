@@ -25,7 +25,7 @@ The Virtual Cloud Network: Core Technical Skills self-paced course targets candi
 
 The course aligns with the VMware Certified Technical Associate (VCTA) certification exam.
 
-**Please Note:** **This course** **requires a Premium subscription** to VMware Customer Connect Learning. Click [here](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=82786) to purchase this subscription to gain access to this course. If you have a Premium subscription, log in first and then search for the course.**
+**Please Note:** This course **requires a Premium subscription** to VMware Customer Connect Learning. Click [here](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=82786) to purchase this subscription to gain access to this course. If you have a Premium subscription, log in first and then search for the course.
 
 ## Objective
 
