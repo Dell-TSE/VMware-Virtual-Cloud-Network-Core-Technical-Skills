@@ -23,7 +23,7 @@ DNS resolves computer names (vmbeans.com) to IP addresses (172.20.10.10), and co
 
 DNS is like a phone book for the Internet. When a user or computer wants to connect to another computer by using its name, a lookup request is sent to a DNS server. The DNS server responds with the IP address.
 
-![DNS-usecase](23%20NSX%20DNS.assets/DNS-usecase.svg)
+![DNS-usecase](assets/DNS-usecase.svg)
 
 ## Implementing DNS in NSX-T Data Center
 
@@ -33,7 +33,7 @@ A DNS forwarder is a server that forwards local DNS requests from clients to ext
 
 NSX-T Data Center Tier-1 and Tier-0 gateways can be configured as DNS forwarders.
 
-![DNS](23%20NSX%20DNS.assets/DNS.svg)
+![DNS](assets/DNS.svg)
 
 ## Summary
 
