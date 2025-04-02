@@ -19,7 +19,7 @@ A vSphere standard switch is a virtual switch that provides virtual networking f
 
 A standard switch is associated with a single ESXi host. For example, if you have three hosts that require network connectivity, then you must create a standard switch on each host.
 
-<img src="06%20vSphere%20Standard%20Switches.assets/StandardSwitch_WhatIs.png" alt="StandardSwitch_WhatIs" style="zoom:50%;" />
+![StandardSwitch_WhatIs](assets/StandardSwitch_WhatIs.png)
 
 #### Single Standard Switches: Managing Traffic
 
@@ -27,7 +27,7 @@ A single standard switch can be used for both VM and ESXi system traffic. The ph
 
 In this example, different networks share the bandwidth provided by the standard switch. The standard switch manages VM traffic from the Accounting network, VM traffic from the Sales network, ESXi management network traffic, and iSCSI storage network traffic. The uplink ports pass all traffic through to the physical NICs.
 
-<img src="06%20vSphere%20Standard%20Switches.assets/StandardSwitch_SharedNetwork.svg" alt="StandardSwitch_SharedNetwork" style="zoom: 33%;" />
+![StandardSwitch_SharedNetwork](assets/StandardSwitch_SharedNetwork.svg)
 
 ### Isolating Networks
 
